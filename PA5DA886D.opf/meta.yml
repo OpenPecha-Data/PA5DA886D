@@ -1,0 +1,185 @@
+id: PA5DA886D
+initial_creation_type: input
+source_metadata:
+  title: Guru Yoga Series
+  language: en
+  description: 'A series of Guru Yoga (bla ma''i rnal ''byor) practices:'
+  volume:
+    b3e44f4c8245432db8a3c5bf7cbc1d4f:
+      title: 'Bestower of Supreme Blessings: Guru Yoga of the Great Incomparable Lord
+        Atiśa'
+      parent: Atiśa Dīpaṃkara
+    5577624a40ce4beeb88141d1e112dd99:
+      title: Guru Yoga of the Guru Mahāmuni
+      parent: Buddha Śākyamuni
+    d0bc4a2c3d9b4952933b7da1368e7d35:
+      title: 'The Merry Sea of Blessings: A Guru Yoga of the Lord of Sages, Peerless
+        Teacher of All, Including the Devas'
+      parent: Buddha Śākyamuni
+    30301144798b446ba818b92ba3559a1c:
+      title: A Profound and Concise Guru Yoga
+      parent: Chatral Rinpoche
+    853868603c6141fe8b169a00cadd5dee:
+      title: The Guru Yoga of the Profound Path
+      parent: Dorje Tötreng Tsal
+    ad74a0cca5834f81a3699de3ac95ede4:
+      title: 'The Gathering of Blessings: A Guru Yoga'
+      parent: Dzogchen
+    1a76392040804ff5b02c1dc07141c4b8:
+      title: 'Guru Yoga: The Consummate Blessing'
+      parent: Dzogchen
+    d655a54660854c90a60a9e562c08b3f3:
+      title: Guru Yoga
+      parent: Padmasambhava
+    b81aeddaf8094935b95c4edc0b641ed0:
+      title: 'A Drop of Jewels: A Guru Yoga for Lord Gampopa'
+      parent: Gampopa Sonam Rinchen
+    b1f39382a4e3452f8838f331938c4ee4:
+      title: Guru Sādhana of Garab Dorje
+      parent: Garab Dorje
+    22a3752545ee484287f173d53c595951:
+      title: 'A Shower of Wisdom: A Guru Yoga of Garab Dorje'
+      parent: Garab Dorje
+    9eaf23f6edb3433aaba75683cb142f95:
+      title: 'The Swift Infusion of Blessings: A Guru Yoga of the Great Embodiment
+        of Unchanging Awareness Wisdom'
+      parent: Gesar
+    56fc05783aed4c969b0785c033df77a7:
+      title: Guru Yoga of the Great Learned and Accomplished Ācārya Haribhadra
+      parent: Haribhadra
+    bedff5fdea5644a39319f637b1d596e8:
+      title: Guru Yoga – A Rang Rig Ma Chö
+      parent: Jamyang Khyentse Chökyi Lodrö
+    caaa373a546e4b13a0da1018102cda04:
+      title: Letter of Advice to Jamyang Gyaltsen
+      parent: Jamyang Khyentse Chökyi Lodrö
+    4f8578ab20704aadb1680fb2a73964e4:
+      title: 'Bestowing the Glory of Wisdom: A Gaṇacakra Feast for Nyingtik Saldrön'
+      parent: Jamyang Khyentse Chökyi Lodrö
+    09e1905f7b034635b9aea4c3f4017bd6:
+      title: 'Drop of Wisdom Nectar: A Guru Yoga'
+      parent: Jamyang Khyentse Chökyi Lodrö
+    49300ce06a7a468db641e46b646479df:
+      title: Guru Padma Yoga
+      parent: Jamyang Khyentse Chökyi Lodrö
+    fdad3027cc734631b1c6ed8efa970c0c:
+      title: 'The Bright Lamp of Wisdom: A Guide to the Practice of Guru Yoga (Yeshe
+        Saldrön)'
+      parent: Jamyang Khyentse Chökyi Lodrö
+    83d9b0628abe4877a2a955d44808a788:
+      title: 'The Bright Lamp of the Heart Essence (Nyingtik Saldrön): A Guru Yoga'
+      parent: Jamyang Khyentse Chökyi Lodrö
+    dd736621081c42d3a4fd76e5de208d20:
+      title: Guru Yoga of Rigdzin Jigme Lingpa
+      parent: Jigme Lingpa
+    937ecdad872c43518a956af504cc8d27:
+      title: 'The Swift Bestowal of Blessings: A Guru Yoga'
+      parent: Khenchen Jigme Phuntsok
+    78ae1cd0a987465a9bae7b7e6e9557f7:
+      title: Guru Yoga Focusing upon Noble Kurukullā
+      parent: Kurukullā
+    5b843ec671094e8a9da4939bfa10594b:
+      title: Guru Yoga of Jetsün Lochen, Queen of Yoginīs
+      parent: Lochen Chönyi Zangmo
+    8847630aade048f4b9dede66d516f999:
+      title: Guru Yoga of the Great Omniscient One, Longchenpa
+      parent: Longchen Rabjam
+    32815fe22a87446da5c898d9f7b735a0:
+      title: 'Guru Yoga: The Complete Path of Sūtra And Tantra'
+      parent: Mañjuśrī
+    1e7b421c7e1749d0a90167a575ed2030:
+      title: 'Vajra Net: The Ancillary Preliminary and Concluding Practices for the
+        Three Drops, the Guru Yogas for Venerable Marpa, Mila, and Gampopa'
+      parent: Marpa, Milarepa & Gampopa
+    df4f2dca96af4d1fbf081f7008b356c8:
+      title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+      parent: Marpa, Milarepa & Gampopa
+    e049112a70884b2d8a85ae2f2a20ec7e:
+      title: Guru Yoga of Lord Marpa Lotsāwa
+      parent: Marpa Chökyi Lodrö
+    2a0d989f0eab4997a59c18b6ecbb64c5:
+      title: 'A Drop of Sunshine: A Guru Yoga for Lord Marpa'
+      parent: Marpa Chökyi Lodrö
+    92b3cd5a9f2243ad9ab6b13561d44388:
+      title: Guru Yoga of Jetsün Shepa Dorje
+      parent: Milarepa
+    28ef5e56c5a04c659d323ca2602879cc:
+      title: 'A Drop of Moonlight: A Guru Yoga for Lord Mila'
+      parent: Milarepa
+    ce293ce9662e4dcda1dc1c49c8b07751:
+      title: Supplication to Lord Mila Shepa Dorje
+      parent: Milarepa
+    ece5471894c04af9a71216ef242bae98:
+      title: Guru Yoga of Milarepa Shepa Dorje for Daily Practice
+      parent: Milarepa
+    eadcd0864e914cfe8900bb9e4eff23cc:
+      title: 'Swift Infusion of Blessings: A Guru Yoga based on Jamgön Mipham Gyatso'
+      parent: Mipham Rinpoche
+    db17a28c57434ec48c9268493fd38027:
+      title: 'The Radiant Treasure of Blessings: A Guru Yoga of the Great Vajradhara
+        Ngawang Samten Lodrö'
+      parent: Ngawang Samten Lodrö
+    ee291c01309f47c9a5a963b3af9f4269:
+      title: A Concise Guru Yoga
+      parent: Padmasambhava
+    34d5ac91e975473ebfd472905066a7f8:
+      title: 'The Quintessence of the Profound Path: A Concise Guide to the Stages
+        of Visualization for the Guru Yoga of the Seven-Line Supplication, A Shower
+        of Blessings'
+      parent: Padmasambhava
+    78b106ddb8cf4e679253aa6aff7a21cc:
+      title: 'The Swift Infusion of Blessings: A Prayer and Aspiration for the Stages
+        of the Path Combined with Guru Yoga'
+      parent: Padmasambhava
+    e5fce50131e7469f9a23fd8454913609:
+      title: 'The Wish-Fulfilling Jewel: The Outer Practice of Guru Yoga from the
+        Heart-Essence of the Vast Expanse'
+      parent: Padmasambhava
+    d628fb6f34e74a18b222caf951bf1a04:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven-Line
+        Prayer'
+      parent: Padmasambhava
+    0c3997a1976e4936bbd961eb3dd20a83:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven Line
+        Prayer (Addendum)'
+      parent: Padmasambhava
+    ed68fb1f46ee428f849cd335abffacd5:
+      title: Guru Yoga of the Great Tertön Pema Lingpa
+      parent: Pema Lingpa
+    2b0475a93f6a4e72810efa97d35cde63:
+      title: 'Shower of Blessings: A Guru Yoga of the Great Paṇḍita, Glorious Rongzom'
+      parent: Rongzom Chökyi Zangpo
+    bda0508f14584fcd8bb23d4aefc5ed4b:
+      title: 'The Sun of Ambrosial Wisdom: A Guru Yoga of Dharmarāja Sakya Paṇḍita'
+      parent: Sakya Paṇḍita
+    90bbc5a178f74575a9fb2e820e2a99fb:
+      title: A Guru Yoga of Śavari
+      parent: Śavari
+    6f44606977cb448a82933d3263a720b8:
+      title: 'The Profound Path of Guru Yoga: A Way to Freedom for the Fortunate'
+      parent: Sera Khandro
+    787b2644f3dd4bf6b01aacba27b9099a:
+      title: 'Great Treasury of Siddhis: A Guru Yoga of Paṇchen Smṛti'
+      parent: Smṛtijñānakīrti
+    c08dd34d50d84f18b0035b0dd8354dbd:
+      title: 'Self-Arising Wisdom: Songtsen Gampo Guru Sādhana'
+      parent: Songtsen Gampo
+    4014214ada0648748d8e0fa37a157b86:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      parent: Three Deities of Long Life
+    1a56724720b24349ac26f8cc42a1ac2a:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      parent: Three Mañjughoṣas
+    96d9ba6d1e9f419aa924997ef2cfd284:
+      title: 'The Quintessential Blessing: A Guru Yoga'
+      parent: Trulshik Rinpoche
+    ce9902f2571e47eabadb85e50a810498:
+      title: Short Guru Yoga of the Noble Lord, All-Knowing Tsongkhapa
+      parent: Tsongkhapa Lobzang Drakpa
+    ded5dde393a740d5b9164ec2b6e63070:
+      title: 'Cultivating the Pure Realm of Manifest Joy: A Guru Yoga of Vajrasattva'
+      parent: Vajrasattva
+created_at: '2022-03-01T03:55:16.203211'
+last_modified_at: '2022-03-01T03:55:16.203217'
